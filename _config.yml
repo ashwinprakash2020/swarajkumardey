@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Swaraj Kumar Dey"
+title                    : "Ashwin Prakash"
 title_separator          : "-"
-name                     : &name "Swaraj Kumar Dey"
-description              : &description "Swaraj Kumar Dey's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://swarajkumardey.github.io/" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Ashwin Prakash"
+description              : &description "Ashwin Prakash's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://ashwinprakash2020.github.io/" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ashwinprakash2020/swarajkumardey.github.io"
+repository               : "ashwinprakash2020/ashwinprakash2020.github.io"
 image                    : "/images/Thumbnail.png"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,13 +25,13 @@ image                    : "/images/Thumbnail.png"
 author:
   # Biographic information
   avatar           : "Profile1.png"
-  name             : "Swaraj Kumar Dey"
+  name             : "Ashwin Prakash"
   pronouns         : # example: "she/her"  
-  bio              : "Deputy Director, Centre for Integral Economics"
+  bio              : "Research Assistant at Chanakya University"
   location         : "Bangalore, Karnataka, India"
   employer         : "Chanakya University"
   uri              : # URL
-  email            : "swaraj.d@chanakyauniversity.edu.in" 
+  email            : "ashwin.p@chanakyauniversity.edu.in" 
 
   # Academic websites
   academia         : # URL
@@ -62,9 +62,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : #
+  instagram        : "ashwinnn.n"
   lastfm           : # Username
-  linkedin         : "swarajkumardey"
+  linkedin         : "ashwinprakash20"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -72,7 +72,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "SwarajKumarDey1"
+  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
