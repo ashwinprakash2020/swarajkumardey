@@ -25,13 +25,13 @@ image                    : "/images/Thumbnail.png"
 author:
   # Biographic information
   avatar           : "Profile1.png"
-  name             : "Ashwin Prakash"
+  name             : "Swaraj Kumar Dey"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant at Chanakya University"
+  bio              : "Deputy Director, Centre for Integral Economics"
   location         : "Bangalore, Karnataka, India"
   employer         : "Chanakya University"
   uri              : # URL
-  email            : "ashwin.p@chanakyauniversity.edu.in" 
+  email            : "swaraj.d@chanakyauniversity.edu.in" 
 
   # Academic websites
   academia         : # URL
@@ -62,9 +62,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "ashwinnn.n"
+  instagram        : #
   lastfm           : # Username
-  linkedin         : "ashwinprakash20"
+  linkedin         : "swarajkumardey"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -72,7 +72,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "SwarajKumarDey1"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
