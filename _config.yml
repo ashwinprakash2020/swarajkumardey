@@ -24,7 +24,7 @@ image                    : "/images/Thumbnail.png"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile1.png"
+  avatar           : "Profile1.jpg"
   name             : "Swaraj Kumar Dey"
   pronouns         : # example: "she/her"  
   bio              : "Deputy Director, Centre for Integral Economics"
