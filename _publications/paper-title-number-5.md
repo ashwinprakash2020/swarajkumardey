@@ -6,7 +6,7 @@ permalink: /publication/paper-title-number-5
 excerpt: "This study examines the differential effects of exposure to adverse information about a favoured candidate on voters' political choice. Using a novel experimental design comprising 500 participants, our research unveils a tipping point, when voters are forced to reconsider their choices, challenging the existence of perpetual motivated reasoning. We find that vulnerable socioeconomic and linguistic groups exhibit higher tipping points, the traditionally conservative NDA coalition is found to tip later and primarily on non-economic issues. Moreover, women are found to not only tip against the candidate but also abandon their preferred political party altogether."
 date: 2022-02-09
 venue: 'European Journal of Political Economy'
-paperurl: '[Download here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668932)'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668932'
 citation: 'Swaraj Kumar Dey, Shubhasis Dey. (2023). &quot;Identity, social media and online political activism.&quot; <i>European Journal of Political Economy</i>.'
 ---
 
