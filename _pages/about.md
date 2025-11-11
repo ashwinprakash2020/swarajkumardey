@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Dr. Swaraj Kumar Dey"
 author_profile: true
 redirect_from: 
   - /about/
