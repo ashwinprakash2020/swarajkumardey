@@ -7,7 +7,7 @@ excerpt: 'The ever-expanding reach and grasp of social media and its tendency to
 date: 2024-01-24
 venue: 'A Historical Review (January 24, 2024)'
 paperurl: '[Download here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4704485)'
-citation: 'Swaraj Kumar Dey, Shubhasis Dey. (2023). &quot;Social Media: Ushering in a New Age of Connectivity or the Rise of a New Leviathan-A Historical Review.&quot; <i>A Historical Review (January 24, 2024)</i>. 1(3).'
+citation: 'Swaraj Kumar Dey, Shubhasis Dey. (2023). &quot;Social Media: Ushering in a New Age of Connectivity or the Rise of a New Leviathan-A Historical Review.&quot; <i>A Historical Review (January 24, 2024)</i>.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
