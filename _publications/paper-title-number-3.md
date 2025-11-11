@@ -13,7 +13,7 @@ citation: 'Swaraj Kumar Dey, Shubhasis Dey. (2023). &quot;Identity and Tipping P
 This study examines the differential effects of exposure to adverse information about a favoured candidate on voters' political choice. Using a novel experimental design comprising 500 participants, our research unveils a tipping point, when voters are forced to reconsider their choices, challenging the existence of perpetual motivated reasoning. We find that vulnerable socioeconomic and linguistic groups exhibit higher tipping points, the traditionally conservative NDA coalition is found to tip later and primarily on non-economic issues. Moreover, women are found to not only tip against the candidate but also abandon their preferred political party altogether.
 
 ---
-Keywords: Fake news, Cognitive reflection test, Social Identity Threat, Vulnerable groups, Identity
+Keywords: Tipping point, Motivated reasoning, Social Identity Threat, Vulnerable groups, Identity, Experimental economics
 ---
 JEL Classification: D91, C99, A12, J15, Z13
 ---
