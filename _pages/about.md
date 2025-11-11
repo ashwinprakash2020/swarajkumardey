@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I have recently completed my MA in Applied Economics, with a strong focus on Econometrics and its real-world applications. Throughout my academic journey, I developed the ability to analyze complex economic data and extract meaningful insights to support data-driven decision-making. I am particularly passionate about applying econometric models to address practical challenges in both public and private sector contexts.
 
-Currently, I am working as a Research Assistant at the Centre for Integral Economics, Chanakya University, where I contribute to research projects involving empirical economic analysis and policy-oriented studies.
+Swaraj Kumar Dey holds a B. Tech degree in Electronics and Communication Engineering from NIT Durgapur. After completing his undergraduate studies, he worked at IBM India Private Limited. Seeking to broaden his understanding beyond the technical realm, he pursued an MBA from IIM Kozhikode, where he developed a keen interest in the intersection of business and management. His academic journey did not stop there; he went on to complete a PhD in Economics from the same institution.
 
-Proficient in tools such as R, Stata, and PostgreSQL, I am skilled at working with large datasets to uncover trends, test hypotheses, and contribute to strategic outcomes. My growing expertise in quantitative methods, combined with a commitment to rigorous analysis, positions me as a valuable asset in any data-driven environment. I am currently awaiting my final results and eager to apply my knowledge in a professional setting.
+Swaraj’s research interests are diverse and multifaceted, predominantly focusing on political economy, behavioural economics, and the application of game theory to understanding political and economic institutions. His dissertation delved into these areas and expanded into the domain of information economics, examining the role of social media in today’s economic and political landscape. Through his work Swaraj wants to integrate traditional economic theories with contemporary issues, so that his research is highly relevant to current global dynamics.
